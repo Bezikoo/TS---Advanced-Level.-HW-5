@@ -1,0 +1,27 @@
+{
+  "name": "ts---advanced-level.-hw-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bezikoo/TS---Advanced-Level.-HW-5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Bezikoo/TS---Advanced-Level.-HW-5/issues"
+  },
+  "homepage": "https://github.com/Bezikoo/TS---Advanced-Level.-HW-5#readme",
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
